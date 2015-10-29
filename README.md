@@ -18,5 +18,6 @@ own distict block
 `[link site](link address)`
 [My home](http://gowhere.tistory.com)
 
-
+Emoji example
+:smiley: :kissing: :car: :x:
 
